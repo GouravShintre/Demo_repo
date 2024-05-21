@@ -8,3 +8,6 @@ some new content
 and here we go again !!!
 
 --------------------------------------
+
+resolving conflict in branch 
+this is a main branch
